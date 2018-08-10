@@ -1,3 +1,10 @@
+# NOTE
+I am going to edit `userDefinedLang-markdown.blackboard.modern.xml` to fit my own need because there are a lot of `LaTeX` equations in my markdown files. 
+
+//Erich
+
+All honors to @Edditoria. 
+
 # Markdown Syntax Highlighting for Notepad++
 
 Writing docs in Markdown is common today, but Notepad++ doesn't provide syntax highlighting for Markdown by default. That's why this repo exists.
